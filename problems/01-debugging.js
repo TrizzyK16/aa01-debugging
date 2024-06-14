@@ -12,12 +12,15 @@ function medianNum(sortedNums) {
   }
   return sortedNums[midIdx];
 }
+// Tron nightmares are the worst
 
 // console.log(medianNum([1, 2, 3, 4, 5, 6])); //=> 4
 // console.log(medianNum([5, 8, 90]));         //=> 8
 // console.log(medianNum([5, 7, 8, 90]));      //=> 8
 // console.log(medianNum([]));                 //=> null
 // console.log(medianNum([3]));                //=> 3
+
+
 
 
 /******************** DO NOT MODIFY ANY CODE BELOW THIS LINE *****************/
